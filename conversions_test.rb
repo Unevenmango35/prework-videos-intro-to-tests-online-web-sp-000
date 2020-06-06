@@ -15,8 +15,3 @@ if answer == 28.3495
 else
   puts "Test failed: got #{answer} instead"
 end
-describe "conversions" do
-  describe '#ounces_to_grams' do
- 
-  end
-end
